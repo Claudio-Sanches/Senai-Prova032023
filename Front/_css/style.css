@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Area_Central{
+    margin:auto;
+    margin-top: 50px;
+    width: 80%;
+    height: 50%;
+    border: 0.5px solid black;
+    align-items: center;
+    align-content: center;
+}
+.titulo{
+    text-align: center;
+    background-color: rgb(224, 220, 220);
+    padding: 10px;
+    border: 0.5px solid rgb(66, 66, 66);
+}
+
+.SubTitulo{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.Abaixo{
+
+}
